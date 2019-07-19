@@ -14,7 +14,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://tgosselink.azurewebsites.net",
+  "homepage": "https://tgosselink.azurewebsites.net/build",
   "eslintConfig": {
     "extends": "react-app"
   },
